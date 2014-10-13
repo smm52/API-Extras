@@ -43,6 +43,6 @@ public class TestUtils {
 	}
 
 	static String getTestSolrServer() {
-		return "http://127.0.0.1:8080/solr/search";
+		return "http://127.0.0.1:8080/solr-agresearch/search";
 	}
 }
